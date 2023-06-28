@@ -10,3 +10,9 @@ C:\Projetos\Vision-Check-Error\VisionErrorCheck\bin\Debug\VisionErrorCheck.pdb
 C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.csproj.CoreCompileInputs.cache
 C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.exe
 C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.pdb
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\bin\Debug\VisionErrorCheck.exe.config
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\bin\Debug\VisionErrorCheck.exe
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\bin\Debug\VisionErrorCheck.pdb
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.exe
+C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErrorCheck.pdb
