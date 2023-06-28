@@ -11,7 +11,7 @@ namespace VisionErrorCheck
     {
         static void Main(string[] args)
         {
-            Console.Title = "Vision Check Error";
+            Console.Title = "Vision Check Error        - Developed by Jonas Moraes";
             iniFile MyIni = new iniFile("Erros.ini");
             string DetalheErro = string.Empty;
             while (true)
