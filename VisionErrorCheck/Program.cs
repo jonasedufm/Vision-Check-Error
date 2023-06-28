@@ -9,31 +9,33 @@ namespace VisionErrorCheck
 {
     class Program
     {
-
         static void Main(string[] args)
         {
-            try
+            Console.Title = "Vision Check Error";
+            iniFile MyIni = new iniFile("Erros.ini");
+            string DetalheErro = string.Empty;
+            while (true)
             {
-                iniFile MyIni = new iniFile("Erros.ini");
-                string DetalheErro = string.Empty;
-
-                Console.Title = "Vision Check Error";
-                Console.WriteLine("Digite o numero do erro: ");
-                int erro = int.Parse(Console.ReadLine());
-
-                if (MyIni.keyExist(erro.ToString(), "ListaErros"))
-                    DetalheErro = MyIni.read(erro.ToString(), "ListaErros");
-
-                else
+               try
                 {
-                    Console.WriteLine("Não foi encontrado o erro!!");
-                }
+                    Console.WriteLine("Digite o numero do erro: ");
+                    int erro = int.Parse(Console.ReadLine());
 
-                Console.WriteLine(DetalheErro);
-            }
-            catch
-            {
-                Console.WriteLine("Digite um número válido.");
+                    if (MyIni.keyExist(erro.ToString(), "ListaErros"))
+                    {
+                        DetalheErro = MyIni.read(erro.ToString(), "ListaErros");
+                        Console.WriteLine("Erro => " + DetalheErro + ".");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Não foi encontrado o erro digitado!!!");
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Digite um número válido.");
+                }
+                Console.WriteLine("________________________________________________________");
             }
         }
     }

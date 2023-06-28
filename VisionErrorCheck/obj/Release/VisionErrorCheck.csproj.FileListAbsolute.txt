@@ -1,0 +1,6 @@
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\bin\Release\VisionErrorCheck.exe.config
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\bin\Release\VisionErrorCheck.exe
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\bin\Release\VisionErrorCheck.pdb
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Release\VisionErrorCheck.csproj.CoreCompileInputs.cache
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Release\VisionErrorCheck.exe
+C:\Projetos\Vision-Check-Error\VisionErrorCheck\obj\Release\VisionErrorCheck.pdb
