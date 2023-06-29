@@ -6,7 +6,7 @@ namespace VisionErrorCheck
     {
         static void Main(string[] args)
         {
-            Console.Title = "Vision Check Error    -    Developed by Jonas Moraes/Arquimedes Miguel";
+            Console.Title = "L2Vision Check Error    -    Developed by Jonas Moraes/Arquimedes Miguel";
             searchLineLogic();
         }
         private static void searchLineLogic()
