@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Reflection;
 
 namespace VisionErrorCheck
 {
@@ -12,11 +7,15 @@ namespace VisionErrorCheck
         static void Main(string[] args)
         {
             Console.Title = "Vision Check Error    -    Developed by Jonas Moraes/Arquimedes Miguel";
+            searchLineLogic();
+        }
+        private static void searchLineLogic()
+        {
             iniFile MyIni = new iniFile("Erros.ini");
             string DetalheErro = string.Empty;
             while (true)
             {
-               try
+                try
                 {
                     Console.WriteLine("Digite o numero do erro: ");
                     int erro = int.Parse(Console.ReadLine());
@@ -27,9 +26,7 @@ namespace VisionErrorCheck
                         Console.WriteLine("Erro => " + DetalheErro + ".");
                     }
                     else
-                    {
                         Console.WriteLine("Não foi encontrado o erro digitado!!!");
-                    }
                 }
                 catch
                 {
