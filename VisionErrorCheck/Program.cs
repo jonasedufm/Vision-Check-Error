@@ -32,7 +32,7 @@ namespace VisionErrorCheck
                 {
                     Console.WriteLine("Digite um número válido.");
                 }
-                Console.WriteLine("________________________________________________________");
+                Console.WriteLine("___________________________________________________________________");
             }
         }
     }

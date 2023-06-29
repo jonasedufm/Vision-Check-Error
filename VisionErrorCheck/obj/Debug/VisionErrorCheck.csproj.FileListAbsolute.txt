@@ -13,6 +13,7 @@ C:\DEVELOPMENT PROJECTS\Vision-Check-Error\VisionErrorCheck\obj\Debug\VisionErro
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\bin\Debug\VisionErrorCheck.exe.config
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\bin\Debug\VisionErrorCheck.exe
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\bin\Debug\VisionErrorCheck.pdb
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\obj\Debug\VisionErrorCheck.csprojAssemblyReference.cache
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\obj\Debug\VisionErrorCheck.csproj.CoreCompileInputs.cache
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\obj\Debug\VisionErrorCheck.exe
 C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\VisionErrorCheck\VisionErrorCheck\obj\Debug\VisionErrorCheck.pdb
